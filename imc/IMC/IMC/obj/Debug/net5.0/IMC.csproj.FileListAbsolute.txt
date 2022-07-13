@@ -1,0 +1,16 @@
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.exe
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.deps.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.runtimeconfig.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.runtimeconfig.dev.json
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\bin\Debug\net5.0\IMC.pdb
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.csproj.AssemblyReference.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.AssemblyInfoInputs.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.AssemblyInfo.cs
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\refint\IMC.dll
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.pdb
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\IMC.genruntimeconfig.cache
+C:\Users\shelb\OneDrive\Documentos\dev\Generation\C#\Lista2\imc\IMC\IMC\obj\Debug\net5.0\ref\IMC.dll
